@@ -1,0 +1,18 @@
+body {
+    background-image: url(./AnimationOpener.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    color: orange;
+    font-size: 50px;
+    text-align: center;
+}
+a {
+    color: orange;
+    font-size: 50px;
+    text-align: center;
+    justify-self: center;
+    align-self: center;
+    text-decoration: none;
+}
